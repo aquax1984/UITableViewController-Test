@@ -1,5 +1,5 @@
 //
-//  OWViewController.h
+//  OWTableViewController.h
 //  UITableViewController Challenge
 //
 //  Created by Chris Bouquet on 3/2/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface OWViewController : UIViewController
+@interface OWTableViewController : UITableViewController
 
 @end
